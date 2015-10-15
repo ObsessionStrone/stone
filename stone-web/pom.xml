@@ -7,6 +7,7 @@
     <modules>
         <module>stone-web-im</module>
         <module>stone-web-site</module>
+        <module>stone-web-resources</module>
     </modules>
 
     <parent>
